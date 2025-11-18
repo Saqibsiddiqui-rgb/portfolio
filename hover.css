@@ -1,0 +1,53 @@
+.nav-links a:hover{
+    color:rgb(163, 100, 223);
+    text-decoration:2px underline rgb(153, 56, 245);
+    transition:all 0.7s ease;
+}
+.more-btn:hover{
+    transition:all 0.4s ease;
+    box-shadow:0 0 5px rgb(153, 56, 245),
+    0 0 25px rgb(153, 56, 245), 0 0 50px rgb(153, 56, 245),
+    0 0 100px rgb(153, 56, 245), 0 0 200px rgb(153, 56, 245);
+}
+.about-text button:hover{
+    transition:all 0.4s ease;
+    box-shadow:0 0 5px rgb(153, 56, 245),
+    0 0 25px rgb(153, 56, 245), 0 0 50px rgb(153, 56, 245),
+    0 0 100px rgb(153, 56, 245), 0 0 200px rgb(153, 56, 245);
+}
+.icon:hover{
+    box-shadow:0 0 10px 5px rgb(153, 56, 245);
+    background-color:rgb(153, 56, 245);
+    transition:all 0.4s ease;
+}
+.services-list div a:hover{
+    transition:all 0.4s ease;
+    box-shadow:0 0 5px rgb(153, 56, 245),
+    0 0 25px rgb(153, 56, 245), 0 0 50px rgb(153, 56, 245),
+    0 0 100px rgb(153, 56, 245), 0 0 200px rgb(153, 56, 245);
+}
+.con-btn:hover{
+    transition:all 0.4s ease;
+    box-shadow:0 0 5px rgb(153, 56, 245),
+    0 0 25px rgb(153, 56, 245), 0 0 50px rgb(153, 56, 245),
+    0 0 100px rgb(153, 56, 245), 0 0 200px rgb(153, 56, 245);
+}
+.up-btn:hover{
+    transition:all 0.3s ease;
+    box-shadow:0 0 5px rgb(153, 56, 245),
+    0 0 25px rgb(153, 56, 245), 0 0 50px rgb(153, 56, 245),
+    0 0 100px rgb(153, 56, 245), 0 0 200px rgb(153, 56, 245);
+}
+.services-list div:hover{
+    transform:translateY(-10px);
+}
+.row:hover img{
+    transform:scale(1.1)
+}
+.row:hover .layer{
+    height:100%;
+}
+
+.project-card:hover .overlay {
+  opacity: 1;
+}

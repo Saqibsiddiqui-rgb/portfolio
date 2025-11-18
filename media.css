@@ -1,0 +1,62 @@
+/* @media (max-width: 768px) {
+  .portfolio-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .project-card {
+    width: 90%;
+  }
+} */
+
+
+ @media (max-width: 1024px){
+  .logo{
+    width:1000px;
+  }
+  .navbar{
+    justify-content:start;
+  }
+  .header{
+    position:fixed;
+  }
+  .content-area{
+    margin:0 auto;
+  }
+  .content-1{
+    width:400px;
+  }
+  .content-2{
+    width:400px;
+  }
+ }@media (max-width:400px){
+  .logo{
+    width:800px;
+  }
+  .about-img{
+    width:400px;
+  }
+  .about-text{
+    width:400px;
+  }
+  .container{
+    width:1350px;
+  }
+  .skills-section{
+    width:1350px;
+  }
+  .portfolio-section{
+    width:1350px;
+  }
+  .main-contact-div{
+    width:1300px;
+    display:flex;
+    justify-content:space-evenly;
+  }
+  #connect{
+    width:1350px;
+  }
+  .up-btn{
+    margin-left:1200px;
+  }
+ }
